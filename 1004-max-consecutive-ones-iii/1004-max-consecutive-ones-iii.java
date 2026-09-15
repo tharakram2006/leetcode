@@ -10,7 +10,7 @@ class Solution {
         {
             zero++;
         }
-        while(zero>k)
+        if(zero>k)
         {
             if(nums[left]==0)
             {
@@ -19,8 +19,8 @@ class Solution {
             left++;
 
         }
-        max=Math.max(max,i-left+1);
+    
     }
-    return max;
+    return n-left;
     }
 }
