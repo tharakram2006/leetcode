@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tharakram2006/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tharakram2006/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/tharakram2006/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/tharakram2006/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tharakram2006/leetcode/tree/master/0169-majority-element) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/tharakram2006/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
@@ -49,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tharakram2006/leetcode/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/tharakram2006/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tharakram2006/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tharakram2006/leetcode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tharakram2006/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Linked List
 |  |
@@ -82,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tharakram2006/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tharakram2006/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tharakram2006/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
