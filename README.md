@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tharakram2006/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tharakram2006/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tharakram2006/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tharakram2006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/tharakram2006/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharakram2006/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tharakram2006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/tharakram2006/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/tharakram2006/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tharakram2006/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tharakram2006/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tharakram2006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
 | ------- |
