@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tharakram2006/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tharakram2006/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tharakram2006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tharakram2006/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/tharakram2006/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tharakram2006/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tharakram2006/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tharakram2006/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
