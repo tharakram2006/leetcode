@@ -3,24 +3,22 @@ class Solution {
        int n=nums.length; 
     int zero=0;
     int  max=0;
-    int left=0;
-    for(int i=0;i<n;i++)
+    
+    int j=0;
+int left=0;
+    for(int right=0;right<n;right++)
     {
-        if(nums[i]==0)
-        {
-            zero++;
-        }
-        if(zero>k)
+        if(nums[right]==0) zero++;
+        while(zero>k)
         {
             if(nums[left]==0)
             {
                 zero--;
             }
             left++;
-
         }
-    
+max=Math.max(max,right-left+1);
     }
-    return n-left;
+    return max;
     }
 }
