@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tharakram2006/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tharakram2006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tharakram2006/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tharakram2006/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/tharakram2006/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tharakram2006/leetcode/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/tharakram2006/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tharakram2006/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tharakram2006/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
 | ------- |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tharakram2006/leetcode/tree/master/0050-powx-n) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tharakram2006/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tharakram2006/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
