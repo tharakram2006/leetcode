@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tharakram2006/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/tharakram2006/leetcode/tree/master/0070-climbing-stairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -185,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tharakram2006/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tharakram2006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tharakram2006/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tharakram2006/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
