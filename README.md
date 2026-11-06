@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/tharakram2006/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/tharakram2006/leetcode/tree/master/0112-path-sum) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/tharakram2006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,4 +176,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/tharakram2006/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/tharakram2006/leetcode/tree/master/0112-path-sum) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/tharakram2006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/tharakram2006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
