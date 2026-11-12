@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tharakram2006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tharakram2006/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tharakram2006/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tharakram2006/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/tharakram2006/leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
 |  |
