@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tharakram2006/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tharakram2006/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tharakram2006/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/tharakram2006/leetcode/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tharakram2006/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tharakram2006/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tharakram2006/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tharakram2006/leetcode/tree/master/0169-majority-element) |
